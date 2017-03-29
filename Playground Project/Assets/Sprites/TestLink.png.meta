@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: e961446cfeb8f364bafd09edd5c784fa
+timeCreated: 1480727564
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Stand South
+    21300002: Stand North
+    21300004: Stand East
+    21300006: Stand West
+    21300008: TestLink_0
+    21300010: TestLink_1
+    21300012: TestLink_2
+    21300014: TestLink_3
+    21300016: TestLink_4
+    21300018: TestLink_5
+    21300020: TestLink_6
+    21300022: TestLink_7
+    21300024: TestLink_8
+    21300026: TestLink_9
+    21300028: TestLink_10
+    21300030: TestLink_11
+    21300032: TestLink_12
+    21300034: TestLink_13
+    21300036: TestLink_14
+    21300038: TestLink_15
+    21300040: TestLink_16
+    21300042: TestLink_17
+    21300044: TestLink_18
+    21300046: TestLink_19
+    21300048: TestLink_20
+    21300050: TestLink_21
+    21300052: TestLink_22
+    21300054: TestLink_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Stand South
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 82
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stand North
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 53
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stand East
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 26
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stand West
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 82
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 82
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 81
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_4
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 82
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 82
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 53
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 53
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 53
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 53
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 53
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 53
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 26
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 26
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 26
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 26
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 26
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_22
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TestLink_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
